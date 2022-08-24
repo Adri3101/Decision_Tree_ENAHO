@@ -1,0 +1,596 @@
+﻿Variable Name,Variable Meaning,Use for the analysis
+A10A,Primera mención de servicio recibido del Cen-Cinai,0
+A10B,Segunda mención de servicio recibido del Cen-Cinai,0
+A10C,Tercera mención de servicio recibido del Cen-Cinai,0
+A11,Condición de aseguramiento,1
+A12,Pensiones: régimen básico obligatorio,1
+A13,Asistencia a educación formal,1
+A14,Último año aprobado,0
+A15A,Tipo de centro educativo al que asiste o asistió,1
+A15B,Universidad pública a la que asiste o asistió,0
+A16B,Título,1
+A17,Motivos de no asistencia a la educación formal,0
+A18A,Primera mención de incentivos para la educación,0
+A18B,Segunda mención de incentivos para la educación,0
+A18C,Tercera mención de incentivos para la educación,0
+A19A,Recibe beca en dinero,0
+A19B,Monto becas en dinero,1
+A19C,Periodo becas en dinero,0
+A20A,Recibió cursos de educación no formal,1
+A21,Institución que impartió curso,0
+A22A,Dominio de un segundo idioma,0
+A22B,Segundo idioma que domina,0
+A23,Mantiene económicamente el hogar,1
+A24A,Usó celular en los últimos 3 meses,0
+A24B,Usó computadora portátil en los últimos 3 meses,0
+A24C,Usó tableta en los últimos 3 meses,0
+A24D,Usó computadora de escritorio en los últimos 3 meses,0
+A24E,Usó internet en los últimos 3 meses,0
+A3,Relación de parentesco,0
+A4,Sexo,1
+A5,Edad,1
+A6,Estado conyugal,1
+A8A,Primera mención de tipo de discapacidad,0
+A8B,Segunda mención de tipo de discapacidad,0
+A9A,Recibió ayuda del IMAS,1
+A9B,Monto ayuda del IMAS,1
+A9C,Periodo ayuda del IMAS,0
+ActComVol,Realización de actividades comunales o voluntarias,0
+ActNoMer,Participación en actividades no de mercado,0
+ActPrimAutCon,Realización de actividades primarias de autoconsumo,0
+aif,Aguinaldo principal independiente formal,0
+asif,Aguinaldo secundario independiente formal,0
+asp,Aguinaldo del salario principal,0
+B1,Trabajó la semana pasada,0
+B2,Realizó actividad por dinero o algo a cambio (actividades marginales),0
+B3,Ayudó sin recibir pago,0
+B4,Ausente temporal de empleo,0
+B5,Motivos de ausencia,0
+B6,Disponibilidad para trabajar,0
+B7A,Consultó con amigos o parientes,0
+B7B,Preguntó lugares de trabajo,0
+B7C,Ofreció sus servicios a domicilio,0
+B7D,Puso o contestó anuncios,0
+B7E,Llenó solicitudes,0
+B7F,Entregó currículos en ferias o bolsas de empleo,0
+B7G,"Envió currículos por correo, internet o personalmente",0
+B7H,Asistió entrevistas,0
+B7I,Buscó clientes o realizo trámites para establecer su propio negocio,0
+B7J,Acondicionó local u oficina para iniciar o continuar un negocio,0
+B7K,Realizó otra gestión,0
+B7L,No hizo ninguna gestión,0
+B8,Razones por las que no buscó trabajo,0
+bsp,Bonificaciones al salario principal,1
+C1,Cuántos trabajos tuvo la semana pasada,0
+C10,Tamaño establecimiento,0
+C11,Lugar donde realiza las tareas,0
+C12,Posición en el empleo,0
+C13A,Por el trabajo le pagan algo en dinero o en especie,0
+C13B,Toma decisiones y participa en la administración del negocio,0
+C13C,Por el trabajo retira dinero o recibe ganancias,0
+C13D,La persona con la que trabaja vive en este o en otro hogar,0
+C13E,Número de línea de persona a la que ayuda,0
+C13F,Ganancia total,0
+C13F1,Período de ganancia,0
+C13G,Porcentaje de ganancia que le corresponde,0
+C14,Estabilidad de la ayuda,0
+C15,Duración de la ayuda,0
+C16A,Antiguedad de la ayuda por menos del mes,0
+C16B,Antiguedad de la ayuda por menos de un año,0
+C16C,Antiguedad de la ayuda por un año o más,0
+C17,Tiene otro trabajo o realizó otra actividad,0
+C2A1,Horas normales empleo principal,0
+C2A2,Horas más de lo normal empleo principal,0
+C2A3,Horas menos de lo normal empleo principal,0
+C2A4,Horas efectivas empleo principal,0
+C2B1,Horas normales empleo secundario,0
+C2B2,Horas mas de lo normal empleo secundario,0
+C2B3,Horas menos de lo normal empleo secundario,0
+C2B4,Horas efectivas empleo secundario,0
+C3,Hubiera querido trabajar más horas,0
+C4A,Si hubiera conseguido más horas las habría trabajado,0
+C4B,Ha buscado trabajar más horas,0
+C5A,"Desea cambiar de trabajo, negocio o actividad",0
+C5B,Por qué desea cambiar este trabajo o actividad,0
+C6A,Podría cambiar de empleo en las próximas 4 semanas,0
+C6B,Ha estado buscando otro trabajo en las últimas 4 semanas,0
+C7B,Número de viviendas para las que trabaja (si es servicio doméstico),0
+C7C,Ubicación establecimiento,0
+C7C1,Otro cantón,0
+CalViv,Calificación de la vivienda,1
+cba,Valor de la Canasta Básica Alimentaria,0
+CondAct,Condición de actividad,1
+CondMig,Condición de Migrante,0
+ContProv,Control de proveedores,0
+CUESTIONARIO,Cuestionario,1
+D_IPCN,Decil de ingreso per cápita del hogar neto,1
+D_REG_IPCN,Decil de ingreso per cápita del hogar neto por región de planificación,1
+D_ZON_IPCN,Decil de ingreso per cápita del hogar neto por zona,1
+D1,Negocio contrata personas asalariadas,0
+D10,Tenencia de socios,0
+D10A,Número de línea del socio en el empleo principal,1
+D11,Negocio inscrito,0
+D12,Lleva el negocio contabilidad formal,0
+D13A,Tiene asignado salario,1
+D13B,¿Cuánto fue salario mes pasado (bruto)?,1
+D13C,Recibió aguinaldo,1
+D13C1,Cuánto recibió,1
+D13D,"Monto en alimentación, transporte, combustible, vivienda, etc. para uso personal",1
+D13E,Cuánto recibió por distribución de dividendos o utilidades,1
+D14A,Ganancia total por venta de productos o servicios,1
+D14B,Ingreso por ventas de productos o servicios,1
+D14C,Gasto por ventas de productos o servicios,1
+D14D,Es una actividad para fabricar o vender alimentos o productos,0
+D14E,De lo que produce o vende retiró algo para autoconsumo,1
+D14F,Monto estimado de autoconsumo,1
+D15A,Total de la ganancia por venta de producción,1
+D15A1,Período de venta,0
+D15B,En cuánto vendió toda la producción,0
+D15B1,Período de venta,0
+D15C,Cuánto gasto en esa producción que vendió,0
+D15C1,Período de venta,0
+D15D,De lo que produjo retiró algo para consumo propio,0
+D15E,Valor estimado autoconsumo,0
+D15E1,Período de venta,0
+D16,Del gasto del hogar cuánto se cubre con el ingreso por esta actividad,1
+D17,Cuánto se ganó o ganará por ese trabajo/actividad,1
+D17A,Periodo de pago,1
+D19,Tiene otro trabajo o realizó otra actividad,0
+D2,Estabilidad del negocio,0
+D3,Duración del negocio,0
+D4A,Días en el Negocio,0
+D4B,Meses en el negocio,0
+D4C,Años en el negocio,0
+D7,Cantidad de clientes,0
+D8A,Cantidad de proveedores,0
+D8B1,Algún proveedor o cliente le establece montos mínimos de ventas o de producción,0
+D8B2,Algún proveedor o cliente le establece un área geográfica de operación,0
+D8B3,Algún proveedor o cliente le establece cuáles mercaderías o productos puede vender,0
+D8B4,Algún proveedor o cliente le establece supervisión directa de su actividad,0
+D9,En el negocio define cuánto cobrar,0
+dif,Dividendos principal independiente formal,1
+dsif,Dividendos secundario independiente formal,0
+E1,Estabilidad del empleo,0
+E10A,Rebajos por seguro social,0
+E10B,Rebajos por impuesto renta,0
+E10C,Rebajos personales que no son de ley,0
+E11A,Propinas,0
+E11B,Monto propinas,1
+E12A,Salario mes pasado,1
+E12B,Tipo de salario,1
+E12C,Total rebajos salariales de ley y no de ley,1
+E13A,Alimentación completa o con subsidio parcial como pago en especie,0
+E13A1,Valor mensual alimentación como pago en especie,0
+E13B,Vivienda como pago en especie,1
+E13B1,Valor mensual vivienda como pago en especie,0
+E13C,"Transporte, combustible como pago en especie",0
+E13C1,"Valor mensual transporte, combustible como pago en especie",0
+E13D,Recibe vehículo como pago en especie,0
+E13D1,Valor mensual vehículo como pago en especie,0
+E13E,Recibe algún otro pago especie,0
+E13E1,Valor mensual otro pago especie,0
+E14A,Recibió aguinaldo,1
+E14A1,monto aguinaldo,1
+E14A2,Período aguinaldo,1
+E14B,Recibió salario escolar,1
+E14B1,Monto salario escolar,1
+E14B2,Período salario escolar,0
+E14C,Recibió bonificaciones,1
+E14C1,Monto bonicaciones,1
+E14C2,Período bonificaciones,1
+E14D,Recibió otros pagos por trabajo,1
+E14D1,Monto otros pagos por trabajo,0
+E14D2,Período otros pagos por trabajo,1
+E15A,Salario bruto que va recibir,1
+E15B,Salario por el período contratado,1
+E15B1,"Días, salario por el período contratado",0
+E17,Tenencia empleo secundario,1
+E2,Duración del empleo,0
+E3A,Días trabajados en ese empleo,0
+E3B,Meses trabajados en ese empleo,0
+E3C,Años trabajados en ese empleo,0
+E4A,Horario normal de trabajo,0
+E4B,Regularidad en el trabajo,1
+E5A,Días de trabajo,0
+E5B,Días de descanso,0
+E6A,Uso de instrumentos o herramientas propias,0
+E6B,Uso de maquinaria o equipo propios,0
+E6C,Casa para trabajar,0
+E6D,Local propio,0
+E6E,Vehículo propio,1
+E6F,Gastos por su cuenta,1
+E7,Quién le paga,0
+E7A,Inscripción del negocio/finca donde trabaja,0
+E8A,Forma de pago,1
+E8B,Período de pago,1
+E9A,Disfruta de aguinaldo,1
+E9B,Disfruta de días pagos por enfermedad,1
+E9C,Disfruta de vacaciones pagas,1
+E9D,Disfruta de seguro riesgos de trabajo,1
+E9E,Disfruta de reconocimiento horas extras,1
+EFI,Estado físico de la vivienda,1
+Escolari,Años de escolaridad,1
+Estabili,Estabilidad en el empleo,0
+F10,Tiene asignado salario (empleo secundario),1
+F10A,Cuánto fue salario (bruto) mes pasado (empleo secundario),0
+F10B,Recibió aguinaldo en los últimos doce meses (empleo secundario),0
+F10B1,Cuánto recibió de aguinaldo (empleo secundario),0
+F10C,"Monto en alimentación, transporte, combustible, vivienda, etc. para uso personal (empleo secundario)",0
+F10D,Cuánto recibió por distribución de dividendos o utilidades (empleo secundario),0
+F11A,Ganancia empleo secundario independiente,1
+F11A1,Período ganancia empleo secundario,1
+F11B,Valor autoconsumo secundario,0
+F11B1,Periodo autoconsumo secundario,1
+F12A,Rebajo seguro social (empleo secundario),0
+F12B,Rebajo impuesto renta (empleo secundario),0
+F12C,Rebajos personales (empleo secundario),0
+F13A,Salario mes pasado (empleo secundario),0
+F13B,Tipo de salario (empleo secundario),0
+F13C,Total rebajos salariales de ley y no de ley (empleo secundario),0
+F14A,Pago en especie (empleo secundario),0
+F14B,Valor estimado salario especie (empleo secundario),0
+F15A,Salario bruto que va recibir (empleo secundario),0
+F15B,Salario por el período contratado (empleo secundario),0
+F15B1,"Días, salario por el período contratado (empleo secundario)",0
+F4,Tamaño de establecimiento ocupación secundaria,0
+F4A,Inscripción del negocio/finca donde trabaja,0
+F5,Lugar donde realiza tareas secundarias,0
+F6,Estabilidad del empleo secundario,0
+F7,Posición empleo secundario (boleta),0
+F8,Tenencia de socios (empleo secundario),0
+F8A,Número de línea del socio en el empleo secundario,0
+F9,Lleva el negocio contabilidad formal (empleo secundario),0
+FACTOR,Factor de expansión,1
+FlexiHorLab,Flexibilidad de jornada laboral,0
+ForNoReg,Formación educativa no formal,0
+ForReg,Formación educativa formal,0
+G1,"Tiempo última gestión conseguir trabajo, iniciar negocio o actividad",0
+G10,Posición en el último empleo,0
+G11,Tiempo término último empleo,0
+G12,Razón principal por la que dejó último empleo,0
+G2,Duración del desempleo,0
+G3,Razón principal no consigue empleo,0
+G4A,Ocupación que busca CIOU 2010,0
+G4B,Horas que dispone para trabajar,0
+G4C,Tipo trabajo que busca,0
+G5,Ingreso mensual mínimo que está dispuesto a aceptar,0
+G6,Ha trabajado alguna vez,0
+gpia,Ganancia principal independiente agropecuario,1
+gpif,Gastos personales principal independiente formal,1
+gpina,Ganancia principal independiente no agropecuaria,1
+gpsfi,Ganancia principal socio familiar independiente,1
+gpsif,Gastos personales secundario independiente formal,1
+gsi,Ganancia secundario independiente,1
+H10A,Recibió aportes en especie al hogar,1
+H10B,Procedencia de la ayuda en especie al hogar,0
+H10C,Monto aporte en especie al hogar,1
+H10C1,Periodo aporte en especie al hogar,1
+H1A,Realizó alguna tarea doméstica de este hogar,0
+H1B,Horas dedicó semana pasada labores domésticas,0
+H1C,Realizó alguna tarea doméstica de otro hogar sin recibir pago,0
+H1D,Horas dedicó semana pasada labores domésticas de otro hogar,0
+H1E,"Cuidó niños, ancianos u otras personas miembros de este o de otro hogar",0
+H1F,"Horas dedicó semana pasada al cuido niños, ancianos u otras personas",0
+H2A,"Sembró, cosechó, cuidó ganado, gallinas, pescó para consumo exclusivo de este hogar",0
+H2B,Horas semana pasada dedicó a actividades agropecuarias para consumo del hogar,0
+H2C,Monto estimado actividades agropecuarias para consumo del hogar,1
+H3A,Realizó reparaciones casa o finca u otra actividad relativa a construcción para su hogar,0
+H3B,Horas dedicadas la semana pasada a reparaciones,0
+H4A,"Elaboró tejidos, costuras para el hogar",0
+H4B,"Horas dedicadas semana pasada costuras, tejidos",0
+H5A,Participó en trabajos comunales o voluntarios,0
+H5B,Horas dedicadas semana pasada trabajo comunal o voluntario,0
+H6A,Miembro de cooperativa,0
+H6B,Miembro de sindicato,0
+H6C,Miembro asociación solidarista,0
+H6D,Miembro asociación gremial,0
+H6E,Miembro asociación comunitaria,0
+H6F,Miembro otra organización,0
+H9A,"Recibió ingresos por alquileres bienes muebles, inmuebles",1
+H9A1,Monto alquileres,1
+H9A2,Periodo alquileres,1
+H9B,"Recibió ingresos por intereses de depósitos, préstamos a terceros y otros",1
+H9B1,"Monto intereses de depósitos, préstamos a terceros y otros",1
+H9B2,"Periodo intereses depósitos, préstamos a terceros y otros",1
+H9C,Recibió ingresos por dividendos sociedades,1
+H9C1,Monto dividendos sociedades,1
+H9C2,Periodo dividendos sociedades,1
+H9D,Recibió ingresos por beneficios asociaciones solidaristas o cooperativas,1
+H9D1,Monto ingresos por beneficios asociaciones solidaristas o cooperativas,1
+H9D2,Periodo ingresos por beneficios asociaciones solidaristas o cooperativas,1
+H9E,Recibió ingresos por pensión regimen no contributivo,1
+H9E1,Monto pensión regimen no contributivo,1
+H9E2,Periodo pensión regimen no contributivo,0
+H9F,Recibió ingresos por otras ayudas estatales o subsidios,1
+H9F1,Monto otras ayudas estatales o subsidios,1
+H9F2,Periodo otras ayudas estatales o subsidios,1
+H9G,Recibió ingreso pensión alimenticia,1
+H9G1,Monto pensión alimenticia,1
+H9G2,Periodo pensión alimenticia,1
+H9H,Recibió ingreso pensiones o jubilaciones nacionales,1
+H9H1,Monto pensiones o jubilaciones nacionales,1
+H9H2,Periodo pensiones o jubilaciones nacionales,0
+H9I,Recibió ingreso pensiones o jubilaciones del extranjero,1
+H9I1,Monto pensiones o jubilaciones del extranjero,1
+H9I2,Periodo pensiones o jubilaciones del extranjero,1
+H9K,Recibió dinero del exterior (remesas),1
+H9K1,Monto dinero del exterior (remesas),0
+H9K2,Periodo dinero del exterior (remesas),0
+H9L,Recibió dinero de familiares u otras personas en el país,1
+H9L1,Monto dinero familiares u otras personas en el país,1
+H9L2,Periodo dinero familiares u otras personas en el país,1
+H9M,Recibió ingreso otras transferencias,1
+H9M1,Monto otras transferencias,0
+H9M2,Periodo otras transferencias,1
+H9P,Recibió aguinaldo por pensión regimen no contributivo,1
+H9P1,Monto aguinaldo pensión regimen no contributivo,1
+H9P2,Periodo aguinaldo pensión regimen no contributivo,0
+H9Q,Recibió aguinaldo pensión alimenticia?,1
+H9Q1,Monto aguinaldo pensión alimenticia,1
+H9Q2,Periodo aguinaldo pensión alimenticia,0
+H9R,Recibió salario escolar pensión alimenticia?,1
+H9R1,Monto salario escolar pensión alimenticia,1
+H9R2,Periodo salario escolar pensión alimenticia,0
+H9S,Recibió aguinaldo pensiones o jubilaciones nacionales?,1
+H9S1,Monto aguinaldo pensiones o jubilaciones nacionales,1
+H9S2,Periodo aguinaldo pensiones o jubilaciones nacionales,0
+H9T,Recibió ingreso por aguinaldo de pensión del extranjero?,1
+H9T1,Monto aguinaldo de pensión del extranjero,1
+H9T2,Periodo aguinaldo de pensión del extranjero,0
+HacApo,Condición de hacinamiento según aposentos,1
+HacDor,Condición de hacinamiento según dormitorios,1
+HOGAR,Número del hogar,1
+HorEfePri,Horas efectivas principales,0
+HorEfeSec,Horas efectivas secundarias,0
+HorNorPri,Horas normales principales,0
+HorNorSec,Horas normales secundarias,0
+HorTotEfe,Horas efectivas totales trabajadas,0
+HorTotNorm,Horas totales normales,0
+ia,Ingreso por alquileres,1
+iag,Ingreso independiente agropecuario,1
+iaunh,Ingreso autónomo del hogar,1
+ib,Ingreso por beneficios,1
+id,Ingreso por dividendos,1
+ID_HOGAR,Identifica el nivel hogar,0
+ID_VIVIENDA,Identifica el nivel vivienda,0
+ii,Ingreso por intereses,1
+inag,Ingreso independiente no agropecuario,1
+inmpia,Ingreso no monetario principal independiente agropecuario,1
+inmpina,Ingreso no monetario principal independiente no agropecuario,1
+inmsi,Ingreso no monetario secundario independiente,1
+InsLab,Insatisfacción laboral,0
+ipbh,INGRESO PRINCIPAL BRUTO DEL HOGAR,1
+ipbt,INGRESO PRINCIPAL BRUTO TOTAL,1
+ipcb,Ingreso per cápita del hogar bruto,1
+ipcn,Ingreso per cápita del hogar neto,1
+ipim,Ingreso principal independiente monetario,1
+ipinm,Ingreso principal independiente no monetario,1
+ipit,Ingreso principal independiente total,1
+IPM_E1,IPM Educación 1: No asistencia a la educación formal,1
+IPM_E2,IPM Educación 2: Rezago educativo,1
+IPM_E3,IPM Educación 3: Sin logro de bachillerato,1
+IPM_E4,IPM Educación 4: Bajo desarrollo de capital humano,1
+IPM_Intensidad,Intensidad de la pobreza multidimensional,1
+IPM_Pobreza,Pobreza multidimensional,1
+IPM_PS1,IPM Protección Social 1: Primera infancia sin cuido,1
+IPM_PS2,IPM Protección Social 2: Personas adultas mayores sin pensión,1
+IPM_PS3,IPM Protección Social 3: Personas con discapacidad sin transferencias,1
+IPM_PS4,IPM Protección Social 4: Fuera de la fuerza de trabajo por obligaciones familiares,1
+IPM_S1,IPM Salud 1: Sin seguro de salud,1
+IPM_S2,IPM Salud 2: Sin servicio de agua,1
+IPM_S3,IPM Salud 3: Sin eliminación de excretas,1
+IPM_S4,IPM Salud 4: Sin eliminación de basura,1
+IPM_T1,IPM Trabajo 1: Desempleo de larga duración y personas desalentadas,1
+IPM_T2_1,IPM Trabajo 2.1: Incumplimiento de salario mínimo,0
+IPM_T2_2,IPM Trabajo 2.2: Incumplimiento de otros derechos laborales,0
+IPM_T3,IPM Trabajo 3: Empleo independiente informal,1
+IPM_VUI1,IPM Vivienda y uso de internet 1: Mal estado del techo o el piso,1
+IPM_VUI2,IPM Vivienda y uso de internet 2: Mal estado de las paredes exteriores,1
+IPM_VUI3,IPM Vivienda y uso de internet 3: Hacinamiento,1
+IPM_VUI4,IPM Vivienda y uso de internet 4: Sin uso de Internet,1
+ipnh,INGRESO PRINCIPAL NETO DEL HOGAR,1
+ipnt,INGRESO PRINCIPAL NETO TOTAL,1
+ipsbt,Ingreso principal salario bruto total,1
+ipsmb,Ingreso principal salario monetario bruto,1
+ipsmn,Ingreso principal salario monetario neto,1
+ipsnt,Ingreso principal salario neto total,1
+ipsp,Ingreso por propinas del salario principal,1
+irp,INGRESO POR RENTA DE LA PROPIEDAD,1
+irph,INGRESO POR RENTA DE LA PROPIEDAD DEL HOGAR,1
+isanh,Ingreso por salario neto del hogar,1
+isbh,INGRESO SECUNDARIO BRUTO DEL HOGAR,1
+isbt,INGRESO SECUNDARIO BRUTO TOTAL,1
+isit,Ingreso secundario independiente total,1
+isnh,INGRESO SECUNDARIO NETO DEL HOGAR,1
+isnt,INGRESO SECUNDARIO NETO TOTAL,1
+issb,Ingreso secundario salario bruto,1
+issn,Ingreso secundario salario neto,1
+itbh,INGRESO POR TRABAJO BRUTO DEL HOGAR,1
+ithb,Ingreso total del hogar bruto,1
+ithn,Ingreso total del hogar neto,1
+itnh,INGRESO POR TRABAJO NETO DEL HOGAR,1
+itpb,Ingreso total por persona bruto,1
+itpn,Ingreso total por persona neto,1
+itrbt,INGRESO POR TRABAJO BRUTO TOTAL,1
+itrnt,INGRESO POR TRABAJO NETO TOTAL,1
+LINEA,Número de línea,1
+lp,Valor de la Línea de Pobreza,1
+LugNac,Lugar de nacimiento,1
+M1,Tiene subsidio de Hogares Conectados para el servicio de Internet,1
+M10,Cantidad de días al mes que recibe clases virtuales,0
+M11,Cantidad de horas al día que recibe clases virtuales,0
+M12,Opinión sobre la Internet usada en clases virtuales,0
+M14,Principal dispositivo utilizado para clases virtuales,0
+M15,Propiedad del dispositivo utilizado para clases virtuales,0
+M16,Exclusividad de uso del dispositivo utilizado para clases virtuales,0
+M17,Encargado del acompañamiento en las actividades educativas,0
+M18,Línea del miembro del hogar que acompaña las actividades educativas,0
+M19,Parentesco con el estudiante del miembro del hogar que acompaña las actividades,0
+M20,No asiste a educación formal debido al COVID-19,0
+M2A,El hogar afronto dificultad para el pago de servicios básicos,1
+M2B,El hogar afronto dificultad para el gasto en alimentos o productos básicos,1
+M2C,"Se dejo de realizar el pago de alquiler, hipoteca",1
+M3A,Tuvo citas médicas por medios virtuales o teléfono,0
+M3B,"Se le suspendió, postergo citas o exámenes médicos",0
+M3C,Se enfermo menos,0
+M3D,"Sufrió problemas de estrés, preocupaciones o ansiedad",0
+M4,Realiza teletrabajo en el empleo principal,0
+M5,La emergencia sanitaria fue el motivo para empezar con el teletrabajo,0
+M6,Cantidad de días de teletrabajo -semana pasada-,0
+M7A,Asistió a clases presenciales,0
+M7B,Atendió clases virtuales con interacción del profesor(a),0
+M7C,Atendió clases virtuales sin interacción del profesor(a),0
+M7D,Atendió lecciones o clases por televisión,0
+M7E,Trabajo lecciones mediante materiales de trabajo para el hogar,1
+M8,Cantidad de días al mes que asiste a clases presenciales,0
+M9,Cantidad de horas al día que asiste a clases presenciales,0
+NivInst,Nivel de instrucción,1
+np,Nivel de pobreza,1
+NumEmpl,Número de empleos,1
+OcupEmpPri,Ocupación en el empleo principal COCR 2011,0
+OcupEmpSec,Ocupación en el empleo secundario COCR 2011,0
+OcupFuerzaTrab,Ocupación de la fuerza de trabajo COCR 2011,0
+OcupPrest,Ocupados presentes,0
+OcupUltEmpCesant,Ocupación último empleo desempleado con experiencia COCR 2011,0
+oisp,Otros ingresos del salario principal,1
+ot,Otras transferencias,1
+oth,Otras transferencias (no subsidios estatales ni becas) del hogar,1
+OtroActAutCon,Realización de otras actividades de autoconsumo,0
+PosiEmpPri,Posición en el empleo principal,0
+PosiEmpSec,Posición en el empleo secundario,0
+PosiFuerzaTrab,Posición en el empleo (ó último empleo) de la fuerza de trabajo,0
+PosiUltCesa,Posición en el último empleo desempleado con experiencia,0
+Q_IPCN,Quintil de ingreso per cápita del hogar neto,1
+Q_REG_IPCN,Quintil de ingreso per cápita del hogar neto por región de planificación,1
+Q_ZON_IPCN,Quintil de ingreso per cápita del hogar por zona,1
+R4A,¿En el hogar la jefatura es compartida?,0
+R4B,No. de línea de la jefatura adicional,0
+RamaEmpPri,Rama de actividad en el empleo principal CAECR 2011,0
+RamaEmpSec,Rama de actividad en el empleo secundario CAECR 2011,0
+RamaFuerzaTrab,Rama de actividad de la fuerza de trabajo CAECR 2011,0
+RamaUltEmpCesant,Rama de actividad último empleo desempleado con experiencia CAECR 2011,0
+RazNoActEco,Razón para no participar en actividades económicas,0
+REGION,Región de planificación,1
+RegNac,Región de nacimiento,0
+RegResAnt,Región de residencia hace dos años,0
+REZ_ESC,Años de rezago escolar,0
+sab,Salario agropecuario bruto,1
+san,Salario agropecuario neto,1
+SecFuerzaTrab,Sector institucional de la fuerza de trabajo,0
+SecInsCesa,Sector institucional último empleo desempleado con experiencia,0
+SecInsPri,Sector institucional empleo principal,0
+SecInsSec,Sector institucional en el empleo secundario,0
+SerBa,Disponibilidad de servicios básicos,1
+sesp,Salario escolar del salario principal,1
+snab,Salario no agropecuario bruto,1
+snan,Salario no agropecuario neto,1
+spif,Salario principal independiente formal,1
+spmb,Salario principal monetario bruto,1
+spmn,Salario principal monetario neto,1
+spnma,Salario principal no monetario alimentación,1
+spnmo,Salario principal no monetario otros,1
+spnmt,Salario principal no monetario transporte,1
+spnmv,Salario principal no monetario vivienda,1
+spnmvh,Salario principal no monetario vehículo,1
+ssif,Salario secundario independiente formal,1
+ssmb,Salario secundario monetario bruto,1
+ssmn,Salario secundario monetario neto,1
+ssnm,Salario secundario no monetario,1
+Sub40Hor,Subempleo (por insuficiencia de horas con 40 horas límite),1
+SubSinHor,Subempleo (por insuficiencia de horas sin límite de horas),1
+TamHog,Tamaño del hogar,0
+TamViv,Cantidad de personas en la vivienda,1
+tapa,Transferencia aguinaldo pensión alimentaria,1
+tape,Transferencia aguinaldo pensión extranjera,1
+tapn,Transferencia aguinaldo pensión nacional,1
+taprnc,Transferencia aguinaldo pensión RNC,1
+tbc,Transferencia becas,1
+tdp,Transferencia dentro del país,1
+te,Transferencia del extranjero,1
+timas,Transferencia Imas,1
+tnm,TRANSFERENCIAS NO MONETARIAS,1
+tnmh,TRANSFERENCIAS NO MONETARIAS DEL HOGAR,1
+tormsp,Total otras retribuciones monetarias al salario principal,1
+tpa,Transferencia pensión alimentaria,1
+tpe,Transferencia pensión del extranjero,1
+tpn,Transferencia pensión nacional,1
+TrabDomNoRem,Participación en trabajo doméstico no remunerado,0
+trnc,Transferencia RNC,1
+ts,Transferencia subsidios,1
+tsebh,Subsidios estatales y becas del hogar,1
+tsepa,Transferencia salario escolar de pensión alimentaria,1
+tspnm,Total salario principal no monetario,1
+ttm,TOTAL TRANSFERENCIAS MONETARIAS,1
+ttmh,TOTAL DE TRANSFERENCIAS MONETARIAS DEL HOGAR,1
+ttpa,TOTAL TRANSFERENCIA PENSION ALIMENTARIA,1
+ttpe,TOTAL TRANSFERENCIA PENSION EXTRANJERA,1
+ttpn,TOTAL TRANSFERENCIA PENSION NACIONAL,1
+ttrnc,TOTAL TRANSFERENCIA RNC,1
+UPM,UPM usuarios,1
+V1,Tipo de vivienda,1
+V10,Metros cuadrados de construcción que tiene la vivienda,0
+V11,Abastecimiento de agua de la vivienda,1
+V12,Fuente de agua de consumo de la vivienda,1
+V13A,Servicio sanitario de la vivienda,1
+V13B,Exclusividad del servicio sanitario de la vivienda,1
+V14A,Tenencia de baño de la vivienda,1
+V14A1,Cantidad de baños de la vivienda,1
+V14B,Exclusividad del uso del baño en la vivienda,1
+V15,Electricidad de la vivienda,1
+V16,Fuente de energía para cocinar en la vivienda,1
+V17A,Sistema de eliminación de basura en la vivienda,1
+V17B1,¿Separan la basura orgánica?,0
+V17B2,¿Separan la basura plástica?,0
+V17B3,¿Separan la basura de vidrio?,0
+V17B4,¿Separan la basura de aluminio?,0
+V17B5,¿Separan la basura de papel o cartón?,0
+V17B6,¿Separan otro tipo de basura?,0
+V18A,Tenencia de teléfono celular,1
+V18A1,Cantidad de teléfonos celulares,0
+V18B,Tenencia de teléfono residencial,1
+V18B1,Cantidad de teléfonos residenciales,0
+V18C,Tenencia de refrigeradora,1
+V18D,Tenencia de sistema de agua caliente para toda la casa,1
+V18E,Tenencia de tanque para almacenar agua,1
+V18F,Tenencia de computadora portátil,1
+V18F1,Cantidad de computadoras portátiles,0
+V18G,Tenencia de computadora de escritorio,1
+V18G1,Cantidad de computadoras de escritorio,0
+V18H,Tenencia de fax (no de computadora),0
+V18I,Tenencia de radio o equipo de sonido,1
+V18I1,Cantidad de radios,0
+V18J,Tenencia de automóvil (no de trabajo),1
+V18J1,Cantidad de Automoviles,0
+V18K,Tenencia de moto (no de trabajo),1
+V18K1,Cantidad de motos,0
+V18L,"Tenencia de TV de plasma, LCD o LED",1
+V18L1,"Cantidad de TV de plasma, LCD o LED",0
+V18L2,Cantidad de Smart TV,0
+V18M,Tenencia de TV convencional,1
+V18M1,Cantidad de TV convencional,0
+V18O,Tenencia de servicio de televisión paga por cable,1
+V18P,Tenencia de servicio de televisión paga por satélite,1
+V18Q,Tenencia de tableta,1
+V18Q1,Cantidad de tabletas,0
+V18R,Otro tipo de servicio de televisión paga,1
+V18S,Tenencia de servicio de televisión paga por IPTV,1
+V19,Tenencia de Internet,1
+V19B,Tipo de conexión al servicio de internet,1
+V19D,Principal razón para no tener servicio de internet,0
+V21,Este hogar recibió bono de vivienda,1
+V21A,¿En que año recibió el bono de vivienda?,1
+V21B,Tipo de bono de vivienda recibido,1
+V2A,Tipo de tenencia de la vivienda,1
+V2A1,Mensualidad pagada por la vivienda,1
+V2B,Mensualidad que pagaría si tuviera que alquilar,0
+V3,Material de las paredes exteriores de la vivienda,1
+V4,Material del techo de la vivienda,1
+V5,¿La vivienda tiene cielo raso?,1
+V6,Material del piso de la vivienda,1
+V6A,¿La vivienda se encuentra sobre pilotes?,1
+V7A,Estado de las paredes exteriores de la vivienda,1
+V7B,Estado del techo de la vivienda,1
+V7C,Estado del piso de la vivienda,1
+V8,Cantidad de cuartos para dormir de la vivienda,1
+V9,Total de aposentos de la vivienda,1
+ZONA,Zona,1
